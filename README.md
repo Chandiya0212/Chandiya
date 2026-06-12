@@ -10,6 +10,13 @@
 <h2>LEARN PROGRAMMING </h2>
 <p>To learn C and C++</p>
 <a href="https://www.freecodecamp.org">Free Coding Courses</a>
+<p>To learn java</p>
+<a href="https://www.youtube.com/watch?v=eIrMbAQSU34">Free Java Courses</a>
+<p>To learn linux</p>
+<a href="https://https://www.youtube.com/watch?v=v392lEyM29A">Free linux Courses</a>
+
+
+
 
 
 
