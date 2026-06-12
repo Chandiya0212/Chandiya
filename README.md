@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<Prep>Placement prep</Prep>
+<Prep>Placement preparation</Prep>
 </head>
 <body>
 
