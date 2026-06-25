@@ -1,30 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-<Prep>Placement preparation</Prep>
-</head>
-<body>
+# Hi, I'm Chandiya
 
-<h1>Welcome to Placement Hub</h1>
+M.Sc. IT Graduate
 
-<h2>LEARN PROGRAMMING </h2>
-<p>To learn C and C++</p>
-<a href="https://www.freecodecamp.org">Free Coding Courses</a>
-<p>To learn java</p>
-<a href="https://www.youtube.com/watch?v=eIrMbAQSU34">Free Java Courses</a>
-<p>To learn linux</p>
-<a href="https://https://www.youtube.com/watch?v=v392lEyM29A">Free linux Courses</a>
+Skills:
+- Linux
+- AWS
+- SQL
+- Networking
+- Shell Scripting
+- GitHub
 
-
-
-
-
-
-
-
-
-<h2>SQL Tutorials</h2>
-<p>Learn SQL from Beginner to Advanced</p>
-
-</body>
-</html>
+Currently Learning:
+- DevOps
+- Docker
+- Jenkins
+- Kubernetes
